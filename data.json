@@ -1,0 +1,51 @@
+
+{
+    "timeline":
+    {
+        "headline":"Lay小one",
+        "type":"default",
+		"startDate":"2013,12,24",
+		"text":"<i><span class='c1'>  Life  </span> & <span class='c2'> life style........</span></i>",
+		"asset":
+        {
+            "media":"assets/img/poster.png",
+            "credit":"",
+            "caption":""
+        },
+        "date": [
+            {
+                "startDate":"2013,12,25",
+                "headline":"My first timeline here",
+                "text":"Nature at its finest.",
+                "asset":
+                {
+                    "media":"assets/img/20131225.jpg",
+                    "credit":"<p>haha</p>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,26",
+                "headline":"Redesign of my timeline",
+                "text":"",
+                "asset":
+                {
+                    "media":"assets/img/20131225.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,27",
+                "headline":"Thanks for paying close attention to Layone",
+                "text":"and more...",
+                "asset":
+                {
+                    "media":"assets/img/thanks.png",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
