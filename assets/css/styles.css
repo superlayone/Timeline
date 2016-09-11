@@ -15,7 +15,7 @@
 
 
 html{
-	background:url('../img/page_bg3.gif') repeat #191919;
+	background:url('../img/timeline_bg.jpg') repeat #191919;
 }
 
 
@@ -55,7 +55,7 @@ section, footer, header{
 }
 
 #timeline div.navigation{
-    background: url('../img/timeline_bg2.jpg') repeat;
+    background: url('../img/timeline_bg.jpg') repeat;
     border-top:none;
 }
 
@@ -68,7 +68,7 @@ section, footer, header{
 	width:100%;
 	left:0;
 	top:-40px;
-	background: url('../img/timeline_bg2.jpg') repeat;
+	background: url('../img/timeline_bg.jpg') repeat;
 }
 
 #timeline div.navigation:after{
@@ -108,7 +108,7 @@ section, footer, header{
 
 #timeline .toolbar{
 	border:none !important;
-	background-color: #004db5 !important;
+	background-color: #202222 !important;
 }
 
 #timeline .toolbar div{
@@ -214,7 +214,7 @@ section, footer, header{
 /* Customizing the first slide - the cover */
 
 #timeline .slider-item:nth-child(1) h2{
-	font:normal 80px/1 'Antic Slab','Segoe UI',sans-serif;
+	font:normal 80px/1 'Helvetica','Segoe UI',sans-serif;
 	background:rgba(0,0,0,0);
 	white-space: nowrap;
 	padding:10px 5px 15px 20px;
@@ -224,12 +224,12 @@ section, footer, header{
 }
 
 #timeline .slider-item:nth-child(1) p i{
-	font:normal normal 40px 'Dancing Script','Segoe UI',sans-serif;
+	font:normal normal 20px 'Helvetica','Segoe UI',sans-serif;
 	background:rgba(0,0,0,0);
 	white-space: nowrap;
 	padding:5px 20px;
 	position:relative;
-	right:-60px;
+	right:0px;
 	z-index:10;
 }
 
@@ -238,7 +238,7 @@ section, footer, header{
 }
 
 #timeline .slider-item:nth-child(1) p .c2{
-	color:#c92fe6;
+	color:#cc99cc;
 }
 
 #timeline .slider-item:nth-child(1) .media-container {
