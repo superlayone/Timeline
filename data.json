@@ -102,17 +102,6 @@
                 }
             },
             {
-                "startDate":"2015,01,02",
-                "headline":"去广州",
-                "text":"在广州塔顶",
-                "asset":
-                {
-                    "media":"http://michellelyric.oss-cn-shanghai.aliyuncs.com/2015-01-02.JPG",
-                    "credit":"<p></p>",
-                    "caption":""
-                }
-            },
-            {
                 "startDate":"2015,02,23",
                 "headline":"骁骁和丈母爹下围棋",
                 "text":"明显找虐",
@@ -130,6 +119,17 @@
                 "asset":
                 {
                     "media":"http://michellelyric.oss-cn-shanghai.aliyuncs.com/2015-05-30.JPG",
+                    "credit":"<p></p>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2016,01,02",
+                "headline":"去广州",
+                "text":"在广州塔顶",
+                "asset":
+                {
+                    "media":"http://michellelyric.oss-cn-shanghai.aliyuncs.com/2016-01-02.JPG",
                     "credit":"<p></p>",
                     "caption":""
                 }
