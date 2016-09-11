@@ -104,7 +104,7 @@ html,body{height:100%;padding:0px;margin:0px;}
 #timeline p:first-child{margin-top:20px;}
 #timeline .navigation p{color:#999999;}
 #timeline .feature h3,#timeline .feature h4,#timeline .feature h5,#timeline .feature h6{margin-bottom:15px;}
-#timeline .feature p{color:#666666;}
+#timeline .feature p{color:#dd85e0;}
 #timeline h1,#timeline h2,#timeline h3,#timeline h4,#timeline h5,#timeline h6{font-weight:normal;color:#000000;text-transform:none;}#timeline h1 a,#timeline h2 a,#timeline h3 a,#timeline h4 a,#timeline h5 a,#timeline h6 a{color:#999999;}
 #timeline h1 small,#timeline h2 small,#timeline h3 small,#timeline h4 small,#timeline h5 small,#timeline h6 small{color:#999999;}
 #timeline h1.date,#timeline h2.date,#timeline h3.date,#timeline h4.date,#timeline h5.date,#timeline h6.date{font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;font-weight:bold;}
