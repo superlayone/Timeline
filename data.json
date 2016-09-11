@@ -102,6 +102,17 @@
                 }
             },
             {
+                "startDate":"2015,01,02",
+                "headline":"去广州",
+                "text":"在广州塔顶",
+                "asset":
+                {
+                    "media":"assets/content/2015-01-02.JPG",
+                    "credit":"<p></p>",
+                    "caption":""
+                }
+            },
+            {
                 "startDate":"2015,02,23",
                 "headline":"骁骁和丈母爹下围棋",
                 "text":"明显找虐",
@@ -141,6 +152,28 @@
                 "asset":
                 {
                     "media":"assets/content/2015-10-06.JPG",
+                    "credit":"<p></p>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2016,05,29",
+                "headline":"西瓜和西瓜夫人结婚",
+                "text":"哎呀，和骁拉手啦",
+                "asset":
+                {
+                    "media":"assets/content/2016-05-29.JPG",
+                    "credit":"<p></p>",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2016,06,05",
+                "headline":"to get her",
+                "text":"猴年马月在一起，还有什么不可能",
+                "asset":
+                {
+                    "media":"assets/content/2016-06-05.JPG",
                     "credit":"<p></p>",
                     "caption":""
                 }
